@@ -1,0 +1,14 @@
+[
+  {
+    "file": "posters/example-poster.jpg",
+    "name": "Example",
+    "caption": "Your caption here. #hashtags",
+    "status": "approved"
+  },
+  {
+    "file": "posters/another-poster.jpg",
+    "name": "Another",
+    "caption": "Held back until you set status to approved.",
+    "status": "draft"
+  }
+]

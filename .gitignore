@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.token_state.json
+posted.json
+queue.json
+out/
+posters/*
+!posters/.gitkeep
+__pycache__/
+.DS_Store
